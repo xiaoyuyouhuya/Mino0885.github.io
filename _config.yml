@@ -2,11 +2,11 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://xiaoyuyouhuya.github.io/
+url: https://mino0885.github.io/
 date_format: "ordinal"
-title: 小宇
-subtitle: 小宇的博客
-description: 小宇的博客
+title: Mino
+subtitle: Mino的博客
+description: Mino的博客
 keywords: 
 favicon: /favicon.ico
 timezone: Asia/Beijing
@@ -16,10 +16,10 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: 小宇
-github_username: xiaoyuyouhuya
+author: Mino
+github_username: Mino0885
 location: Beijing , China
-email: yhydxiaoyu@gmail.com
+email: Mino0885@outlook.com
 
 # ---------------- #
 #    Navigation    #
